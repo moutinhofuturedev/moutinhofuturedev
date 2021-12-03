@@ -1,5 +1,5 @@
 ## Olá, eu sou o PauloMoutinho💻
-- Futuro Desenvolvedor Front End
+- Desenvolvedor Front End
 - Estudando Javascript 
 
  <div>
