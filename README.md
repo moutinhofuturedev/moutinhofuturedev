@@ -1,6 +1,6 @@
 ## Olá, eu sou o PauloMoutinho💻
 - Desenvolvedor Front End
-- Estudando Javascript 
+- Estudando Javascript e seu mundo mágico
 - Focado em ser Desenvolvedor FullStack
 
  <div>
