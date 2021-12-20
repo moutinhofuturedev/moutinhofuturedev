@@ -1,6 +1,7 @@
 ## Olá, eu sou o PauloMoutinho💻
 - Desenvolvedor Front End
 - Estudando Javascript 
+- Focado em ser Desenvolvedor FullStack
 
  <div>
   <a href="https://github.com/moutinhofuturedev">
