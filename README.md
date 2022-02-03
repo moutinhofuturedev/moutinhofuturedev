@@ -1,5 +1,6 @@
 ## Olá, eu sou o Paulo Moutinho💻
 - Estudando Javascript e seu mundo mágico
+- 2022 me dedicando exclusivamente ao estudo da stack #React e #Node
 - Focado em trabalhar como Desenvolvedor FullStack
 
  <div>
