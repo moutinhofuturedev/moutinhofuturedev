@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Paulo Moutinho 💻</h1>
 
 ## Sobre mim
-Em transição de carreira, iniciei os estudos em tecnologia e percebi melhor desempenho na área de programação e desenvolvimento Frontend e suas principais stacks. Atualmente, exerço liderança e gerenciamento de equipes de mídia e streaming, realizo trabalhos de filmagem, treinamento específicos de operação de sistemas de streaming e softwares dedicados.
-Nos estudos em programação e desenvolvimento de software, tenho como foco principal da minha carreira trabalhar como desenvolvedor Front-end. Utilizo a stack JavaScript ( React & Typescript ) para desenvolver em ambas as frentes.
+Em transição de carreira, iniciei os estudos em tecnologia e percebi melhor desempenho na área de programação e desenvolvimento Frontend e suas principais stacks.
+Nos estudos em programação e desenvolvimento de software, tenho como foco trabalhar como desenvolvedor Front-end Junior. Utilizo a stack JavaScript ( React & Typescript ) para desenvolver em ambas as frentes.
 
  <div>
   <a href="https://github.com/moutinhofuturedev">
