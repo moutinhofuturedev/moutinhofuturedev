@@ -3,7 +3,7 @@
 ## Sobre mim
 <strong>console.log('hello, Bro!')</strong>
 <ul>
- <li>Front-end Software Engineer na Viahub 💻</li>
+ <li>Front-end Software Engineer na <a href="https://www.viahub.com.br/" target="_blank">Viahub</a> 💻</li>
  <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
  <li>Team Leader em equipe de tecnologia na Church 🛐</li>
  <li>Autodidata 📚</li>
