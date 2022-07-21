@@ -5,7 +5,7 @@
 <ul>
  <li>Front-end Software Engineer na <a href="https://www.viahub.com.br/">Viahub</a> 💻</li>
  <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
- <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/"></a> 🛐</li>
+ <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/">Church</a> 🛐</li>
  <li>Autodidata 📚</li>
  <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
 </ul>
