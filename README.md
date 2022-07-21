@@ -1,8 +1,12 @@
 <h1 align="center">Olá, eu sou o Paulo Moutinho 💻</h1>
 
 ## Sobre mim
-Em transição de carreira, iniciei os estudos em tecnologia e percebi melhor desempenho na área de programação e desenvolvimento Frontend e suas principais stacks.
-Nos estudos em programação e desenvolvimento de software, tenho como foco trabalhar como desenvolvedor Front-end Junior. Utilizo a stack JavaScript ( React & Typescript ) para desenvolver em ambas as frentes.
+<ul>
+ <li>Front-end Software Engineer na Viahub 💻</li>
+  <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
+  <li>Team Leader em equipe de tecnologia na Church 🛐</li>
+  <li>Autodidata 📚</li>
+</ul>
 
  <div>
   <a href="https://github.com/moutinhofuturedev">
