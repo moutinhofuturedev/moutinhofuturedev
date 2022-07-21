@@ -7,7 +7,7 @@
  <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
  <li>Team Leader em equipe de tecnologia na Church 🛐</li>
  <li>Autodidata 📚</li>
- <li>Aluno na Rocketseat - #NeverStopLearning 🚀</li>
+ <li>Aluno na <strong id="color">Rocketseat</strong> - #NeverStopLearning 🚀</li>
 </ul>
 
  <div>
