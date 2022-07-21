@@ -3,11 +3,11 @@
 ## Sobre mim
 <strong>console.log('hello, Bro!')</strong>
 <ul>
- <li>Front-end Software Engineer na <a href="https://www.viahub.com.br/" target="_blank">Viahub</a> 💻</li>
+ <li>Front-end Software Engineer na <a href="https://www.viahub.com.br/">Viahub</a> 💻</li>
  <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
- <li>Team Leader em equipe de tecnologia na Church 🛐</li>
+ <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/"></a> 🛐</li>
  <li>Autodidata 📚</li>
- <li>Aluno na <strong id="color">Rocketseat</strong> - #NeverStopLearning 🚀</li>
+ <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
 </ul>
 
  <div>
