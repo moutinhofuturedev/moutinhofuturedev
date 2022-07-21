@@ -1,11 +1,13 @@
 <h1 align="center">Olá, eu sou o Paulo Moutinho 💻</h1>
 
 ## Sobre mim
+<strong>console.log('hello, Bro!')</strong>
 <ul>
  <li>Front-end Software Engineer na Viahub 💻</li>
-  <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
-  <li>Team Leader em equipe de tecnologia na Church 🛐</li>
-  <li>Autodidata 📚</li>
+ <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
+ <li>Team Leader em equipe de tecnologia na Church 🛐</li>
+ <li>Autodidata 📚</li>
+ <li>Aluno na Rocketseat - #NeverStopLearning 🚀</li>
 </ul>
 
  <div>
