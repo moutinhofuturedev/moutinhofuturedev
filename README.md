@@ -18,7 +18,10 @@ Nos estudos em programação e desenvolvimento de software, tenho como foco trab
    <img align="center" alt="Paulo-GIT" title="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Paulo-Js" title="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Paulo-TYPESCRIPT" title="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-   <img align="center" alt="Paulo-REACT" title="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Paulo-REACT" title="REACT" height="30" width="40"
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Paulo-NEXT" title="NEXT" height="30" width="40"
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
    <img align="center" alt="Paulo-VSCODE" title="VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 </div>
