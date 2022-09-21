@@ -17,6 +17,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1f2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PauloMoutinho19)
  
  <h2> 🛠 &nbsp;Tech Stack</h2>
+ https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
  
  ## GitHub Status 📊 
 ![](https://github-readme-stats.vercel.app/api?username=moutinhofuturedev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
