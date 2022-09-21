@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Paulo Moutinho 💻</h1>
 
-## Sobre mim
+## Sobre mim 💫
 <strong>console.log('hello, Bro!')</strong>
 <ul>
  <li>Front-end Software Engineer na <a href="https://www.viahub.com.br/">Viahub</a> 💻</li>
@@ -10,6 +10,11 @@
  <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
   <li>Documentando em markdown minha jornada como aluno e dev 📝</li>
 </ul>
+
+## Social 🌐
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/paulo_mmoutinho/?hl=pt-br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%1877F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulomoutinhovitor/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1f2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PauloMoutinho19)
 
  <div>
   <a href="https://github.com/moutinhofuturedev">
@@ -35,12 +40,3 @@
   
   ##
   
-  <div>
-    <a href="https://instagram.com/paulo_mmoutinho" target="_blank"><img src="https://img.shields.io/badge/-Paulo Moutinho-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/paulo-moutinho-vitor-9446175a" target="_blank"><img src="https://img.shields.io/badge/-Paulo Moutinho Vitor-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href = "mailto:paulo_vicpj@hotmail.com"><img src="https://img.shields.io/badge/paulo_vicali@icloud-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-      </div>
-      
-      
-       
-       
