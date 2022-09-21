@@ -8,7 +8,6 @@
  <li>Autodidata 📚</li>
  <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
   <li>Documentando em markdown minha jornada como aluno e dev 📝</li>
- <li>Envie-me uma mensagem: Email - paulo_vicali@icloud.com 📫></li>
 </ul>
 
 ## Social 🌐
