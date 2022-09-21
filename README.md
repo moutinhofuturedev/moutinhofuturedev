@@ -43,4 +43,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=moutinhofuturedev&label=Visualiza%C3%A7%C3%B5es&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
