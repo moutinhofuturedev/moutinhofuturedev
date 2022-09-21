@@ -33,6 +33,9 @@
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=moutinhofuturedev&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
  ## GitHub Status 📊 
 ![](https://github-readme-stats.vercel.app/api?username=moutinhofuturedev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moutinhofuturedev&theme=nightowl&hide_border=false)<br/>
