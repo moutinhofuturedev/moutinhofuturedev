@@ -34,9 +34,9 @@
 </div>
 
  ## GitHub Status 📊 
-![](https://github-readme-stats.vercel.app/api?username=moutinhofuturedev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moutinhofuturedev&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moutinhofuturedev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=moutinhofuturedev&show_icons=true&theme=radical)</br>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moutinhofuturedev&theme=radical)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutinhofuturedev&theme=radical&layout=compact)](https://github.com/moutinhofuturedev/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
