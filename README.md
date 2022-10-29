@@ -1,6 +1,8 @@
-## Sobre mim 💫
+<h1 align='center'> 
+  Hello < Developers />!<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"/>
+</h1>
 
-<strong>console.log('hello, Bro!')</strong>
+### Sobre mim 💫 
 <ul>
  <li>Front-end Software Engineer na <a href="https://www.viahub.com.br/">Viahub</a> 💻</li>
  <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
@@ -35,13 +37,15 @@
 </div>
 
  ## GitHub Status 📊 
- ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=moutinhofuturedev&show_icons=true&theme=radical)</br>
+ ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=moutinhofuturedev&show_icons=true&theme=radical)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moutinhofuturedev&theme=radical)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutinhofuturedev&theme=radical&layout=compact)](https://github.com/moutinhofuturedev/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutinhofuturedev&theme=radical&layout=compact)](https://github.com/moutinhofuturedev/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<p>Obrigado pela visita 😀</p>
+
 [![](https://visitcount.itsvg.in/api?id=moutinhofuturedev&label=Visualiza%C3%A7%C3%B5es&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
