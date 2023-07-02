@@ -11,6 +11,7 @@
  <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
   <li>Documentando em markdown minha jornada como aluno e dev 📝</li>
 </ul>
+<p>...mais sobre mim em <a href="https://paulomoutinho.vercel.app/">Paulo Moutinho Portfólio</a> </p>
 
 ## Social 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_mmoutinho/?hl=pt-br)
