@@ -4,8 +4,7 @@
 
 ### Sobre mim 💫 
 <ul>
- <li>Front-end Software Engineer na <a href="https://www.viahub.com.br/">Viahub</a> 💻</li>
- <li>Atualmente ViaHubber - no HUB de tecnologia da Via 🧑🏾‍🚀</li>
+ <li>Software Engineer no <a href="https://www.instagram.com/casasbahiatech/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==">Casas Bahia Tecnologia</a> 💻</li>
  <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/">Church</a> 🛐</li>
  <li>Autodidata 📚</li>
  <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
