@@ -9,7 +9,7 @@
  <li>Autodidata 📚</li>
  <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
 </ul>
-<p>...mais sobre mim em <a href="https://paulomoutinho.vercel.app/">Paulo Moutinho Portfólio</a> </p>
+<a href="https://app.rocketseat.com.br/me/paulo-moutinho-vitor-08258"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-moutinho-vitor-08258&type=card" width="280" alt="Paulo Moutinho Vitor's Rocket ID"/></a>
 
 ## AI 🤖
 [![streak](https://codeium.com/badges/v2/user/paulomoutinho/streak)](https://codeium.com/profile/paulomoutinho)
