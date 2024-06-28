@@ -1,8 +1,6 @@
-<h1 align='center'> 
-  Hello < Developers />!<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"/>
-</h1>
 
-### Sobre mim 💫 
+
+# Sobre mim 💫 
 <ul>
  <li>Software Engineer no <a href="https://ri.grupocasasbahia.com.br/a-companhia/nossas-marcas/">Grupo Casas Bahia</a> 💻</li>
  <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/">Church</a> 🛐</li>
