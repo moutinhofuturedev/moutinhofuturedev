@@ -10,7 +10,7 @@
 <a href="https://app.rocketseat.com.br/me/paulo-moutinho-vitor-08258"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-moutinho-vitor-08258&type=card" width="280" alt="Paulo Moutinho Vitor's Rocket ID"/></a>
 
 ## AI 🤖
-[![streak](https://codeium.com/badges/v2/user/paulomoutinho/streak)](https://codeium.com/profile/paulomoutinho)
+[![autocomplete](https://codeium.com/badges/user/paulomoutinho/autocomplete)](https://codeium.com/profile/paulomoutinho)
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
  
  <h2> &nbsp;Tech Stack 🛠</h2>
