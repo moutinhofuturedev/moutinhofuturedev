@@ -3,7 +3,7 @@
 # Sobre mim 💫 
 <ul>
  <li>Software Engineer no <a href="https://ri.grupocasasbahia.com.br/a-companhia/nossas-marcas/">Grupo Casas Bahia</a> 💻</li>
- <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/">Church</a> 🛐</li>
+ <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/">Igreja Cristã Mundial</a> 🛐</li>
  <li>Autodidata 📚</li>
  <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
 </ul>
