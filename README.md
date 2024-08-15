@@ -11,6 +11,9 @@
 
 ## AI 🤖
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+<div display="inline">
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
 
 ## Linguagens 👨🏾‍💻
 <div display="inline">
