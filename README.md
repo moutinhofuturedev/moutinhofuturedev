@@ -1,13 +1,18 @@
+<h1>Sobre mim 👨🏾‍💻</h1>
+<h3>Paulo Moutinho</h3>
 
+>**Trabalho**
+<p>
+ Fiz a transição de carreira entre 2020 e 2021, saindo da área de logística para a programação. Durante um ano, me dediquei aos fundamentos de lógica de programação com JavaScript, criando projetos pessoais para publicá-los no GitHub e compor meu portfólio. Com a ajuda de um mentor e utilizando o LinkedIn como ferramenta para encontrar vagas e fazer networking, consegui minha primeira (e até agora) oportunidade de trabalhar com programação.
+ Atualmente, trabalho como Software Engineer no <a href="https://ri.grupocasasbahia.com.br/a-companhia/nossas-marcas/">Grupo Casas Bahia</a>, atuando como desenvolvedor frontend na squad de Checkout Web E-commerce de Casas Bahia, Ponto e Extra. Também atuei no time de SEO e Acessibilidade, adequando as páginas para melhorar a performance nos mecanismos de busca e garantir uma experiência inclusiva para todos os usuários, sempre utilizando a stack JavaScript, como React, Next, TypeScript e bibliotecas de estilo para frontend, além de ferramentas para testes unitários e End-to-End.
+</p>
 
-# Sobre mim 💫 
-<ul>
- <li>Software Engineer no <a href="https://ri.grupocasasbahia.com.br/a-companhia/nossas-marcas/">Grupo Casas Bahia</a> 💻</li>
- <li>Team Leader em equipe de tecnologia na <a href="https://cristamundial.com.br/">Igreja Cristã Mundial</a> 🛐</li>
- <li>Autodidata 📚</li>
- <li>Aluno na <a href="https://www.rocketseat.com.br/">Rocketseat</a> - #NeverStopLearning 🚀</li>
-</ul>
-<a href="https://app.rocketseat.com.br/me/paulo-moutinho-vitor-08258"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-moutinho-vitor-08258&type=card" width="280" alt="Paulo Moutinho Vitor's Rocket ID"/></a>
+>**Estudos**
+>
+
+<div align="center">
+ <a href="https://app.rocketseat.com.br/me/paulo-moutinho-vitor-08258"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-moutinho-vitor-08258&type=card" width="280" alt="Paulo Moutinho Vitor's Rocket ID"/></a>
+</div>
 
 ## AI 🤖
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
