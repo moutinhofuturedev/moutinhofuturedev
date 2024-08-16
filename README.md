@@ -8,7 +8,9 @@
 </p>
 
 >**Estudos**
->
+<p>
+Entre outros cursos, os mais relevantes que concluí incluem o bootcamp de Desenvolvedor Frontend da XP Educação, finalizado em 2021. A maior parte da minha jornada de estudos foi, e continua sendo, na <a href="https://app.rocketseat.com.br/me/paulo-moutinho-vitor-08258">Rocketseat</a>, que foi fundamental para o meu início na programação e para a conquista da minha primeira vaga, utilizando apenas os módulos do <a href="https://www.rocketseat.com.br/discover">Discover</a>, uma categoria voltada para iniciantes e fundamentos da programação. Atualmente, estou me aprofundando em conteúdos mais avançados e, além de aprimorar minha stack de trabalho com JavaScript e seu ecossistema, tenho incluído em minha rotina de estudos conceitos básicos de backend, DevOps e Inteligência Artificial.
+</p>
 
 <div align="center">
  <a href="https://app.rocketseat.com.br/me/paulo-moutinho-vitor-08258"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-moutinho-vitor-08258&type=card" width="280" alt="Paulo Moutinho Vitor's Rocket ID"/></a>
