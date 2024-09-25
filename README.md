@@ -13,26 +13,47 @@ Entre outros cursos, os mais relevantes que concluí incluem o bootcamp de Desen
 </p>
 
 <div align="center">
- <a href="https://app.rocketseat.com.br/me/paulo-moutinho-vitor-08258"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-moutinho-vitor-08258&type=card" width="280" alt="Paulo Moutinho Vitor's Rocket ID"/></a>
+ <p><strong>Linguagens 👨🏾‍💻</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
 </div>
 
-## AI 🤖
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+---
 
-## Linguagens 👨🏾‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+<div align="center">
+ <p><strong>Frontend / Frameworks / Library 🚀</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,tailwind,react,next,vite,vitest,jest,cypress" />
+  </a>
+</div>
 
-## Frontend / Frameworks / Library 🚀
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,react,next,vite,vitest,jest,cypress)](https://skillicons.dev)
+---
 
-## Backend / Database / ORM ⚙️
-[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,postgres,prisma)](https://skillicons.dev)
+<div align="center">
+ <p><strong>Backend / Database / ORM ⚙️</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,postgres,prisma" />
+  </a>
+</div>
 
- ## IDE 👨🏾‍💻
- [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+---
+
+ <div align="center">
+  <p><strong>IDE 👨🏾‍💻</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</div>
+
+---
  
- ## Tech Stack 🛠
-[![My Skills](https://skillicons.dev/icons?i=git,github,npm)](https://skillicons.dev)
+ <div align="center">
+  <p><strong>Tech Stack 🛠</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,npm" />
+  </a>
+</div>
 
 -----------------------------
 <p>Obrigado pela visita 😀</p>
