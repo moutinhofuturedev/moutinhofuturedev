@@ -13,45 +13,9 @@ Entre outros cursos, os mais relevantes que concluí incluem o bootcamp de Desen
 </p>
 
 <div align="center">
- <p><strong>Linguagens 👨🏾‍💻</strong></p>
+ <h3><strong>Stack 🛠</strong></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts" />
-  </a>
-</div>
-
----
-
-<div align="center">
- <p><strong>Frontend / Frameworks / Library 🚀</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,tailwind,react,next,vite,vitest,jest,cypress" />
-  </a>
-</div>
-
----
-
-<div align="center">
- <p><strong>Backend / Database / ORM ⚙️</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker,postgres,prisma" />
-  </a>
-</div>
-
----
-
- <div align="center">
-  <p><strong>IDE 👨🏾‍💻</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-</div>
-
----
- 
- <div align="center">
-  <p><strong>Tech Stack 🛠</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,npm" />
+    <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,next,vite,vitest,jest,cypress,nodejs,docker,postgres,vscode,git,npm" />
   </a>
 </div>
 
